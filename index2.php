@@ -30,5 +30,5 @@ $num2 = 0;
      }
     }          
     // Used for printing    
-    echo "The sum is: $num2";
+    echo "The num2 is: $num2";
 ?>
